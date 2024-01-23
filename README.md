@@ -1,4 +1,4 @@
-# README Generator: Node.js and ES6+ Work
+# README Generator: Node.js 
 
 For an open source project on GitHub, having a comprehensive README is crucial. It should clearly outline the app's functionality, installation steps, usage instructions, how to report problems, and guidelines for contributing. To facilitate this, a command-line tool can swiftly create a well-organized project README. This approach helps project creators dedicate more time to developing the project and less to writing a detailed README.
 
